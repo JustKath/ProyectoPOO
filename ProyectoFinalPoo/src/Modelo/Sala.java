@@ -10,21 +10,21 @@ package Modelo;
  * @author Humberto
  */
 public class Sala {
-    int numeroAsientos;
-    Asiento asientos[][];
-    
-    public Sala(){
-     numeroAsientos=25;
-     asientos= new Asiento [5][5];
- }
+//    int numeroAsientos;
+//    Asiento asientos[][];
+//    
+//    public Sala(){
+//     numeroAsientos=25;
+//     asientos= new Asiento [5][5];
+// }
 
-    public int getNumeroAsientos() {
-        return numeroAsientos;
-    }
+//    public int getNumeroAsientos() {
+//        return numeroAsientos;
+//    }
 
-    public Asiento[][] getAsientos() {
-        return asientos;
-    }
+//    public Asiento[][] getAsientos() {
+//        return asientos;
+//    }
     
 
 }

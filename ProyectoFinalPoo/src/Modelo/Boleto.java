@@ -8,14 +8,14 @@ package Modelo;
 public class Boleto {
 
     private static int precio;
-    private Asiento asiento;
-    private Funcion funcion;
-    
-    public Boleto(int precio,Asiento asiento,Funcion f){
-        this.precio=precio;
-        this.asiento=asiento;
-        this.funcion=f;
-    }
+//    private Asiento asiento;
+//    private Funcion funcion;
+//    
+//    public Boleto(int precio,Asiento asiento,Funcion f){
+//        this.precio=precio;
+//        this.asiento=asiento;
+//        this.funcion=f;
+//    }
     public static int getPrecio() {
         return precio;
     }
